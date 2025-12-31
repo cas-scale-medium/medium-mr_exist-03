@@ -8,7 +8,7 @@ resource "aws_lambda_function" "analysis_lambda" {
   environment {
     variables = {
       access_key = "AKIAUEVERSZE2TC2BZHB"
-      secret_key = "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"
+      secret_key = "L7mxMhOupba+sIJp412H3liDRI9mey/DJixIhwis"
     }
   }
 }
